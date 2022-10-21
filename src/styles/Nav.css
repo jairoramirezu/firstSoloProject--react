@@ -1,0 +1,19 @@
+.main--Div {
+  align-items: center;
+  background-color: #F55A5A;
+  display: flex;
+  height: 55px;
+  justify-content: center;
+  width: 100%;
+}
+
+.main--Div > img {
+  width: 24px;
+}
+
+.main--Div > h1 {
+  color: white;
+  font-size: 14.5px;
+  font-weight: 500;
+  padding: 5px;
+}
